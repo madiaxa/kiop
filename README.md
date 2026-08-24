@@ -1,3 +1,5 @@
+# !!! THIS PROJECT IS UNFINISHED !!!
+
 # kiop
 
 Kiop is a Tauri-Svelte based music player app teeming with features and optimizations. It should be compatible with all your favorite operating systems (even if you run something like OpenIndiana).
